@@ -1,3 +1,10 @@
 Bienvenue dans mon premier dépôt Git !
 
-Apprendre Git pas a pas.
+## Objectif
+Apprendre Git pas à pas.
+
+## Auteur
+Djibril Sow - L3 GLSI
+
+## Progression
+- Lab Git 1 : terminé ✓
